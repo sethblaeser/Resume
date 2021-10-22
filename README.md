@@ -1,11 +1,11 @@
 # Resume Home Page
 
-####[Hobbies](Page1.md)
+[Hobbies](Page1.md)
 
-####[Education](Page2.md)
+[Education](Page2.md)
 
-####[Work Experience](Page3.md)
+[Work Experience](Page3.md)
 
-####[Honors Awards](Page4.md)
+[Honors Awards](Page4.md)
 
-####[Activities](Page5.md)
+[Activities](Page5.md)

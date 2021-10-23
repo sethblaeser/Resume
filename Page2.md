@@ -2,7 +2,7 @@
 
 ***High School***
 
-  I attended high school at St. Francis Academy in Wheaton,Illinois. After two year I transfered to the local public school called [Batavia High School](https://bhs.bps101.net/).
+  I attended high school at St. Francis Academy in Wheaton,Illinois. After two years I transfered to the local public school called [Batavia High School](https://bhs.bps101.net/).
   
 ***College***
   

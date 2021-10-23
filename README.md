@@ -1,4 +1,4 @@
-# Resume Home Page
+# AboutMe Home Page
 
 [Hobbies](Page1.md)
 

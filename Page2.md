@@ -8,4 +8,4 @@
   
   I attended Molberly Area Community College my freshman year. I obtained my residency in Missouri and transfered to University of Missouri, Colubmia, where I am currently attending. My graduation date is spring of 2022 and am obtaining a degree in [Finance and Banking](https://business.missouri.edu/programs-admissions/undergraduate/business-administration/finance-and-banking-emphasis).
 
-[Home Page](README.md) [Next Page](Page3.md)
+[Home Page](README.md) [Previous Page](Page1.md) [Next Page](Page3.md)

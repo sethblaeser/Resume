@@ -6,6 +6,6 @@
 
 [Work Experience](Page3.md)
 
-[Honors Awards](Page4.md)
+[Family](Page4.md)
 
 [Activities](Page5.md)
